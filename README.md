@@ -1,2 +1,2 @@
-# nb-3-starter
-Starter repo for notebook set 3
+# Notebook Set 3
+Notebooks on the Central Limit Theorem and t-tests. 

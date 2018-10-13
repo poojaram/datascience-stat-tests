@@ -37,6 +37,8 @@ library(ggplot2)
 
 # We can use similar techniques to make comparisons across assignments (*not* by sex)
 # As an example, use a t-test to answer the question, 
-# Was assignment 4 harder than assignment 5? Create a graphic that supports this comparison
+# Was assignment 4 harder than assignment 5? 
+# Make sure to account for the fact that the data is *paried*
+# Create a graphic that supports this comparison
 
 

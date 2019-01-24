@@ -1,2 +1,2 @@
 # Notebook Set 3
-Notebooks on the Central Limit Theorem and t-tests. 
+In this set of notebooks, you'll use statistical tests to provide concrete answers to data science questions. 
